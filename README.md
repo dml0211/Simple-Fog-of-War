@@ -1,6 +1,8 @@
 # Simple Fog of War 전장의 안개
 Simple fog of war plugin that can use in Unreal Engine 4 or 5
 
+You have to turn on the "Support UV from hit result" in Project Settings to use this plugin.
+
 There is an example Level in Plugins/FogOfWar Contents folder
 
 I don't make Player Pawn. So you need to press Alt + S button in keyboard to join Simulation Mode, then move sphere with your mouse.
@@ -10,6 +12,8 @@ All of the variables and functions are Blueprintable, can use in Blueprint.
 Free to Use/Edit/Release.
 <br/><br/><br/><br/><br/>
 언리얼엔진 4 또는 5 버전에서 사용할 수 있는 간단한 전장의 안개 플러그인입니다.
+
+프로젝트 세팅에서 "힛 결과에서 UV 지원" 항목에 체크 해주셔야 정상적으로 작동됩니다.
 
 플러그인 콘텐츠 폴더 내에 MainLevel 이름의 예시 레벨이 있습니다.
 
